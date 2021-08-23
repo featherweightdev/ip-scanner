@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": " /usr/local/lib/python3.7",
+    "python.analysis.extraPaths": [
+        "/usr/local/lib/python3.7/",
+        "/usr/local/lib/python3.7/site-packages"
+    ]
+}
